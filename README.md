@@ -17,20 +17,11 @@
 
 ## 🚀 Languages & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,nestjs,mongodb,firebase,docker,git,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,nestjs,mongodb,firebase,docker,git,graphql,postgresql,kubernetes" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omri93rajuan&card_width=500)](https://git.io/streak-stats)<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omri93rajuan&show_icons=true&locale=en&layout=compact" alt="omri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omri93rajuan&show_icons=true&locale=en" alt="omri" /></p>
-<br />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omri93rajuan&label=Profile%20views&color=0e75b6&style=flat" alt="omri93" /> </p>
-
-Made with ❤️ 
 
 <!--
 **Omri93Rajuan/Omri93Rajuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
